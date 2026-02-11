@@ -95,7 +95,7 @@ export const VINOVA_HOME_CONTENT: VinovaHomeContent = {
       "Para niños, jóvenes y adultos",
     ],
     image: {
-      src: "assets/images/home/hero/hero-karolina.jpg",
+      src: "assets/images/home/hero/hero-karolina.webp",
       alt: "Especialista de VINOVA - Centro de Visión Integral",
     },
     ctaPrimaryLabel: "Ver servicios",
